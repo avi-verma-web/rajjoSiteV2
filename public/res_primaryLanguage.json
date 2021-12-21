@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "Hi,I am Rajveer Singh Lalawat Done Master in VLSI-Design at Indian Institude Of Infomation & technology Gwalior in 2019.👀 I’m interested in doing project like realited to hardware and its usefull in real life application using HDL and Developed with the help of FPGA Board.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "FPGA Prototype Of Non-Recursive Key Based Crypto System",
+      "startDate": "March 2021",
+      "description": "Given by Department Of Science And Technology, India. Real life Application Based Hardware Implement Using FPGA. Implement Crypto Algorithm,Hash Function And its Sub module.",
+      "images": ["images/p.jpg"],
+      "url": "",
+      "technologies": [
+        {
+          "name": "Verilog"
+        },
+        {
+          "name": "FPGA"
+        },
+        {
+          "name": "IIIT Jabalpur"
+        }
+      ]
+    },
+    {
+      "title": "Low Power High speed Single Ended Read Decouple SRAM Array",
+      "startDate": "June-2018 May-2019",
+      "description": "Design and Implement 1kb SRAM with Decoder,Bit-line and storage element. Design and simulations of SRAM Array is done in SCL-32nm. DRC and LVS is verified using Calibre.",
+      "images": ["images/p.jpg"],
+      "url": "",
+      "technologies": [
+        {
+          "class": "",
+          "name": "Cadence Virtuoso"
+        },
+        {
+          "class": "",
+          "name": "IIITM Gwalior"
+        }
+      ]
+    },
+    {
+      "title": "Serial Peripheral Interface",
+      "startDate": "September-2019 August-2020",
+      "description": "SPI is a general-purpose synchronous serial interface its transfer, transmit and receive data is simultaneously shifted out and in serially.",
+      "images": ["images/p.jpg"],
+      "url": "",
+      "technologies": [
+        {
+          "class": "",
+          "name": "EDA Tools"
+        },
+        {
+          "class": "",
+          "name": "RTL coding"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Indian Institute of Information Technology,Jabalpur",
+      "title": "Senior Research Fellow",
+      "years": "March 2021 - present",
+      "mainTech": ["FPGA", "Verilog"],
+      "technologies": []
+    },
+    {
+      "company": "Vaidik Technology Private Limited",
+      "title": "Front end Developer",
+      "years": "September 2020 - February 2021",
+      "mainTech": ["React", "Material UI", "JS"],
+      "technologies": []
+    },
+    {
+      "company": "Sion Semiconductor Private Limited",
+      "title": "Design And Verification Intern",
+      "years": "September 2019 - August 2020",
+      "mainTech": ["EDA Tools", "RTL Coding"],
+      "technologies": []
+    },
+    {
+      "company": "Indian Institute of Information Technology and Management, Gwalior",
+      "title": "Master Thesis",
+      "years": "May 2017 - June 2019",
+      "mainTech": ["Cadence Virtuoso"],
+      "technologies": []
+    }
+  ]
+}
